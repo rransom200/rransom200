@@ -7,21 +7,21 @@ Computer Engineering
 
 * CS 135 - Computer Science I
 * CS 151 - Introduction to Cybersecurity
-CS 203 - Computer Science II
-CS 219 - Computer Organization
-CS 302 - Data Structures & Algorithms
-CS 326 - Programing Language Concepts and Implementation
-CS 477 - Analysis of Algorithims
-CPE 201 - Digital Design
-CPE 301 - Embedded Systems Design
+* CS 203 - Computer Science II
+* CS 219 - Computer Organization
+* CS 302 - Data Structures & Algorithms
+* CS 326 - Programing Language Concepts and Implementation
+* CS 477 - Analysis of Algorithims
+* CPE 201 - Digital Design
+* CPE 301 - Embedded Systems Design
 
 Math
 
-MATH 181 - Calculus 1
-MATH 182 - Calculus 2
-MATH 283 - Calculus 3
-MATH 330 - Linear Algebra
-STAT 352 - Probability Statistics
+* MATH 181 - Calculus 1
+* MATH 182 - Calculus 2
+* MATH 283 - Calculus 3
+* MATH 330 - Linear Algebra
+* STAT 352 - Probability Statistics
 <!--
 **rransom200/rransom200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
