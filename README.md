@@ -5,12 +5,8 @@ List of Relevant Courses
 
 Computer Engineering
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-*CS 135 - Computer Science I
-CS 151 - Introduction to Cybersecurity
+* CS 135 - Computer Science I
+* CS 151 - Introduction to Cybersecurity
 CS 203 - Computer Science II
 CS 219 - Computer Organization
 CS 302 - Data Structures & Algorithms
