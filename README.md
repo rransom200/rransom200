@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Ryan
-
+A Computer Science and Engineering student minoring in Cyber Security at University of Nevada, Reno
 <!--
 **rransom200/rransom200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
