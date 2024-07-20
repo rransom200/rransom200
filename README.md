@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Ryan
+## 👋 Hi, I'm Ryan
 A Computer Science and Engineering student minoring in Cyber Security at University of Nevada, Reno
 
 ### List of Relevant Courses
 
-### Computer Engineering
+#### Computer Engineering
 
 * CS 135 - Computer Science I
 * CS 151 - Introduction to Cybersecurity
@@ -15,7 +15,7 @@ A Computer Science and Engineering student minoring in Cyber Security at Univers
 * CPE 201 - Digital Design
 * CPE 301 - Embedded Systems Design
 
-### Math
+#### Math
 
 * MATH 181 - Calculus 1
 * MATH 182 - Calculus 2
