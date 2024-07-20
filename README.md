@@ -5,7 +5,7 @@ List of Relevant Courses
 
 Computer Engineering
 
-CS 135 - Computer Science I
+*CS 135 - Computer Science I
 CS 151 - Introduction to Cybersecurity
 CS 203 - Computer Science II
 CS 219 - Computer Organization
