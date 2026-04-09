@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Ryan
-A Computer Science and Engineering student minoring in Cyber Security at University of Nevada, Reno
+A Computer Science and Engineering student at University of Nevada, Reno
 
 ### List of Relevant Courses
 
@@ -11,6 +11,8 @@ A Computer Science and Engineering student minoring in Cyber Security at Univers
 * CS 219 - Computer Organization
 * CS 302 - Data Structures & Algorithms
 * CS 326 - Programing Language Concepts and Implementation
+* CS 426 - Senior Projects
+* CS 446 - Operating Systems
 * CS 477 - Analysis of Algorithims
 * CPE 201 - Digital Design
 * CPE 301 - Embedded Systems Design
@@ -20,6 +22,7 @@ A Computer Science and Engineering student minoring in Cyber Security at Univers
 * MATH 181 - Calculus 1
 * MATH 182 - Calculus 2
 * MATH 283 - Calculus 3
+* MATH 314 - History of Mathematics
 * MATH 330 - Linear Algebra
 * STAT 352 - Probability Statistics
 <!--
